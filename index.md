@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Taydale API 
 
-You can use the [editor on GitHub](https://github.com/Taydale/api/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+To start use the Taydale API, you need to [create a request](https://api.taydale.com/create-request/) to our staff for access to the API.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
