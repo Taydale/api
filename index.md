@@ -2,11 +2,12 @@
 
 To start use the Taydale API, you need to [create a request](https://api.taydale.com/create-request/) to our staff for access to the API.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When you got your API, [connect them to your servers](https://api.taydale.com/connect-api/).
+Finally! If you correctly connected your API, you will see your mail, on which API was registered.
 
-### Markdown
+### Step 1. Getting a Player Information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+First of all, 
 
 ```markdown
 Syntax highlighted code block
